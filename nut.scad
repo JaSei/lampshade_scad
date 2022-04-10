@@ -1,7 +1,7 @@
 use <threadlib/threadlib.scad>
 
-turns = 2;
-bottom_d = 70;
+turns = 1;
+bottom_d = 85;
 diameter = 42;
 len_between_threads = 3;
 holder_height = 5;

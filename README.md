@@ -1,6 +1,6 @@
 # lampshades models
 
-My lampshade on the Ikea lamp is similar to [HEKTOGRAM](https://www.ikea.com/cz/cs/p/hektogram-stojaci-cteci-lampa-stribrna-bila-80477710/) was broken. As a owner of 3D printing I tried to make new lapmshade.
+My lampshade on the stand lamp [Eglo 93917](https://www.eglo.cz/katalog/interierova-svitidla/stojaci/93917-up-2) was broken. As a owner of 3D printing I tried to make new lapmshade.
 
 I have two versions of lampshades; both are made in amazing [OpenSCAD](https://openscad.org) and are fully customizable.
 
@@ -13,6 +13,8 @@ And btw. I lost the nut for the lampshade.
 My first models contain nuts as part of lampshade, but it wasn't a good design, so I made a separate `./nut.scad` again - fully customizable.
 
 Thanks to decision to separate lampshade and nut (the original set up of the lamp btw.) I'm fully flexible.
+
+Models contain brims to support hold on the printing plate. You must cut the brim before installation.
 
 I wish you a lot of fun with modeling (and printing).
 
