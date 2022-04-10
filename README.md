@@ -27,3 +27,14 @@ those repositories:
 * [scad-utils](https://github.com/openscad/scad-utils)
 * [list-compohension](https://github.com/openscad/list-comprehension-demos)
 * [thread_profile.scad](https://github.com/MisterHW/IoP-satellite/blob/master/OpenSCAD%20bottle%20threads/thread_profile.scad)
+
+## model examples
+
+### conical lampshade
+![conical lampshade](./img/lampshade_conical.png)
+
+### curved lampshade
+![curved lampshade](./img/lampshade_curved.png)
+
+### nut
+![nut](./img/nut.png)
